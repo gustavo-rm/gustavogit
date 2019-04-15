@@ -1,0 +1,23 @@
+git clone https://github.com/gustavo-rm/gustavogit.git  #download do repositório já existente 
+
+OU
+
+mkdir <nome do projeto>
+
+cd <nome do projeto>
+
+git init  #iniciando repositório vazio
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/gustavo-rm/gustavogit  #adiciona um repositório já existente
+
+git add <arquivo>
+
+git commit -m "aplicação versão 1.0"
+
+git push
+
+--git status
